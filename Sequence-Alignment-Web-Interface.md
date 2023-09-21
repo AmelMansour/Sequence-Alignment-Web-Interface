@@ -10,6 +10,7 @@ Fonctionnalités :
 *Technologies Employées: 
      -Python : Employé en tant que principal langage de programmation pour implémenter la logique sous-jacente de l'interface web ainsi que l'algorithme d'alignement. 
      -BioPython : Une bibliothèque Python spécialisée dans le traitement des séquences biologiques. Son utilisation se focalise sur la réalisation de l'alignement des séquences. 
+     
 *FRAMEWORK Web : Flask
 
 --> Capture d'écran :
